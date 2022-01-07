@@ -1,3 +1,12 @@
+# Portfolio Edge Stock Lookup Dashboard with ChartJS Tailwind CSS HTML5
+
+Created by Lucky Mountaineers  
+https://github.com/etorres-revature/Lucky_Mountaineers
+
+Working version:  
+https://etorres-revature.github.io/Lucky_Mountaineers/
+
+
 # [PORTFOLIO EDGE](https://etorres-revature.github.io/Lucky_Mountaineers/) :yen: :dollar: :pound: :euro: :moneybag: :money_with_wings:
 
 Financial freedom is one of the main goals for every working person throughout the world.  Over time the single best return on your investment can be through the purchase of publicly traded stocks.  
