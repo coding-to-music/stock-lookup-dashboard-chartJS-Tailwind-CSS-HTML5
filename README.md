@@ -6,6 +6,10 @@ https://github.com/etorres-revature/Lucky_Mountaineers
 Working version:  
 https://etorres-revature.github.io/Lucky_Mountaineers/
 
+Need to set environment secrets
+
+My Version
+https://coding-to-music.github.io/stock-lookup-dashboard-chartJS-Tailwind-CSS-HTML5/
 
 # [PORTFOLIO EDGE](https://etorres-revature.github.io/Lucky_Mountaineers/) :yen: :dollar: :pound: :euro: :moneybag: :money_with_wings:
 
